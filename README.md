@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PriyaLearnsToCode
 - 👀 I’m interested in Scuba Diving
-- 🌱 I’m currently learning Machine learning
+- 🌱 I’m currently learning ML
 - 💞️ I’m looking to collaborate on anything related to data 
 - 📫 How to reach me rathibala96@gmail.com
 
