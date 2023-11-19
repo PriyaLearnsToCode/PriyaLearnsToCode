@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PriyaLearnsToCode
+- 👋 Hi, I’m @Priya
 - 👀 I’m interested in Scuba Diving
 - 🌱 I’m currently learning ML
 - 💞️ I’m looking to collaborate on anything related to data 
